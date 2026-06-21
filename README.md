@@ -4,7 +4,7 @@
 
 A hands-on workshop that teaches you how to build real AI applications using only free tools — no GPU, no credit card, no local setup required.
 
-*Instructor: Pramit Mitra — Principal Engineer, Data Science Platform, Dell Technologies*
+*Instructor: Pramit Mitra *
 
 ---
 
