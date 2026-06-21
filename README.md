@@ -32,7 +32,8 @@ The included Jupyter notebook (`The_Zero_Rupee_AI_Engineer_Lab_1.ipynb`) covers 
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com) (recommended) or locally with Python 3.9+
 2. Get a free API key from [Google AI Studio](https://aistudio.google.com/apikey)
-3. Run cells top to bottom
+3. OpenAI Tokenizer - from https://platform.openai.com/tokenizer
+4. Run cells top to bottom
 
 ### Free Tools Used
 
